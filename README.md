@@ -11,3 +11,9 @@ ideologies: none
  <source media="(prefers-color-scheme: light)" srcset="anime-girl-with-brown-hair.jpg" width="660px" height="520px">
  <img alt="YOUR-ALT-TEXT" src="Anime-Girl-Blush-PNG-Clipart.png">
 </picture>
+
+<style> 
+ source { 
+  transform: scaleX(-1); 
+ }
+</style>
