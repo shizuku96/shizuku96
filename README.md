@@ -5,3 +5,8 @@ Hi my name is Shizuku but you can also call me "Teacher". I like to explore the 
 Pronouns: they/them
 
 ideologies: none
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="Anime-Girl-Blush-PNG-Clipart.png">
+ <source media="(prefers-color-scheme: light)" srcset="anime-girl-with-brown-hair.jpg">
+</picture>
