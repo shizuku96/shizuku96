@@ -8,12 +8,6 @@ ideologies: none
 
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="Anime-Girl-Blush-PNG-Clipart.png">
- <source media="(prefers-color-scheme: light)" srcset="anime-girl-with-brown-hair.jpg" width="660px" height="520px">
+ <source media="(prefers-color-scheme: light)" srcset="anime-girl-with-brown-hair.jpg" width="660px" height="520px" style="transform: scaleX(-1);">
  <img alt="YOUR-ALT-TEXT" src="Anime-Girl-Blush-PNG-Clipart.png">
 </picture>
-
-<style> 
- source { 
-  transform: scaleX(-1); 
- }
-</style>
